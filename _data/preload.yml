@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-12-27 19:38:07.734182'
+  iiif: true
+  thumbnail: http://www.e-codices.unifr.ch/loris/csg/csg-0904/csg-0904_e001.jp2/full/120,/0/default/jpg
+  title: St. Gallen, Stiftsbibliothek, Cod. Sang. 904
+  url: http://www.e-codices.unifr.ch/metadata/iiif/csg-0904/manifest.json
+  user: "P\xE1draic Moran"
 settings: {}
 version: '2.1'
